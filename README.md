@@ -1,6 +1,7 @@
-# EasyWebEditor
+# EasyWebEditor & More
 
-A New Fresh program written in vb.net for web editing! 
+BeffsEasyWebEditor isn't just for web-based coding, it supports C# Vb.net And many others!
+A New Fresh program written in vb.net for Code editing! 
 
 This is a feature of BeffsBrowser version 2.0 soon to be released but, Also a independent project!
 
@@ -22,6 +23,12 @@ See the Dev guide for info!
 -JS*
 
 -CSS*
+
+-Vb.net
+
+-PHP
+
+-C#
 
 More coming soon!
 *Currently being developed, plans are to have a beta testing enabled/disabled for these options. 
