@@ -13,3 +13,11 @@ You can use all sorts of formatting options. All are HTML 5 compliant!
 Helping is easy, Spread the word! Even if  you don't know vb.net you can help!
 
 See the Dev guide for info!
+
+
+#Supported Editing Languages
+
+-HTML 5 
+-JS
+-CSS
+More coming soon!
