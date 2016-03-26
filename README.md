@@ -18,6 +18,10 @@ See the Dev guide for info!
 #Supported Editing Languages
 
 -HTML 5 
--JS
--CSS
+
+-JS*
+
+-CSS*
+
 More coming soon!
+*Currently being developed, plans are to have a beta testing enabled/disabled for these options. 
